@@ -18,7 +18,7 @@ The purpose of this dashboard is to simulate a real-world hotel analytics system
 3. Data Modeling (Star Schema Architecture) – Relationship and performance optimization
 4. Power BI Service (Conceptual Deployment) – Role-based access and usage tracking
 
- 4. Data Information
+4. Data Information
 
 The dataset used in this project consists of structured hotel booking data, including:
 
@@ -41,3 +41,5 @@ The dataset used in this project consists of structured hotel booking data, incl
 9.Professional dark-themed executive dashboard layout
 
 6. Dashboard pdf
+
+Link - https://github.com/karansingh92/HotelRevenueAnalysis/blob/main/Hotel%20Revenue%20Analysis%20Dashboard.pdf
