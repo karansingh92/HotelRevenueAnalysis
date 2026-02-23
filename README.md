@@ -1,9 +1,7 @@
 # HotelRevenueAnalysis
-
-
 1. Project Title
 
-Hotel Performance Analysis & Revenue Management Dashboard
+Hotel Revenue Analysis Dashboard
 
 2. Short Description / Purpose
 
