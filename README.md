@@ -40,4 +40,4 @@ The dataset used in this project consists of structured hotel booking data, incl
 
 6. Dashboard pdf
 
-Link - https://github.com/karansingh92/HotelRevenueAnalysis/blob/main/Hotel%20Revenue%20Analysis%20Dashboard.pdf
+Link - https://github.com/karansingh92/HotelRevenueAnalysis/blob/main/Hotel%20Analytics%20Overview.pdf
